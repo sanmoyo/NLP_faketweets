@@ -1,5 +1,7 @@
 # NLP_faketweets
-3rd year coursework for **Machine Learning Technology** module at university --- my first software project in **Python**. Unlike my dissertation, this report is fairly short, so feel free to have a look. 
+3rd year coursework for **Machine Learning Technology** module at university --- my first software project in **Python**. Unlike my dissertation, this report is fairly short, so feel free to have a look at it in the repo or use the link below. 
+
+**Link:** https://github.com/sanmoyo/NLP_faketweets/blob/main/MLT%20Coursework%20Write%20Up%20(mms2n18).pdf
 
 **Components of the project:**
 1. Training data from MEDIAEVAL 2015 event (**not** included here as it is from MEDIAEVAL)
